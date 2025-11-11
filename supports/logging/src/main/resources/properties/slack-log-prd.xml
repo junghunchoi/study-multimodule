@@ -1,6 +1,5 @@
 <included>
-    <property name="SLACK_USERNAME" value=""/>
-    <property name="SLACK_CHANNEL" value=""/>
-    <property name="SLACK_WEBHOOK_URI"
-              value=""/>
+    <property name="SLACK_USERNAME" value="prd-bot"/>
+    <property name="SLACK_CHANNEL" value="#prd-alerts"/>
+    <property name="SLACK_WEBHOOK_URI" value="https://hooks.slack.com/services/YOUR/WEBHOOK/URL"/>
 </included>
